@@ -1,4 +1,5 @@
 # 🔊 ZeroPassive BoomBox
+![Result](Result.jpeg)
 
 **ZeroPassive BoomBox** is a compact, bi-amped speaker system designed specifically for DJs. Built around the **Wondom JAB5 amplifier with ADAU1701 DSP**, this box delivers clean, powerful bass and accurate mids and highs — without any passive crossovers.
 
@@ -60,5 +61,5 @@ Just DSP. Just punch. Built to shake the room without breaking the bank.
 
 ---
 
-## 📦 Project Structure
+![Assembly](case_assembly.jpeg)
 
